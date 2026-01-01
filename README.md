@@ -1,4 +1,4 @@
-AAPL Financial Analysis & Forecasting Model
+AAPL Automated Financial Dashboard
 Project Overview
 This repository contains a complete financial analysis and forecasting model for Apple Inc. (AAPL). It combines Python automation with a structured Excel workbook to analyze historical performance, calculate key financial metrics, and generate forward‑looking projections.
 The project demonstrates practical skills in financial modeling, data cleaning, KPI development, visualization, and reproducible analytics.
