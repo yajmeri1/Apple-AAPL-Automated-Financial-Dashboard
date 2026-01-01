@@ -13,7 +13,7 @@ Key Features
 - Organized Excel workbook containing all cleaned data, KPIs, and forecasts
 - Dynamic Excel dashboard using XLOOKUP to compare Free Cash Flow vs Revenue across selected years
 
-Project Structure
+## Project Structure
 AAPL-Financial-Analysis-Forecasting-Model/
 │
 ├── scripts/               # Python scripts for cleaning, metrics, charts
